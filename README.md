@@ -154,15 +154,36 @@ These comparisons helped me look beyond individual numbers and understand how di
 
 Selected screenshots demonstrate the major stages and findings of the analysis:
 
-1. Project Overview
-2. Data Cleaning & Validation
-3. Cuisine Analysis
-4. Price Range Analysis
-5. Online Delivery Analysis
-6. Geographic Analysis
-7. Customer Engagement & Advanced Analysis
 
----
+Selected screenshots from the Excel workbook showing the project structure, analysis, visualisations, and key findings.
+
+### Workbook Structure
+
+![Workbook Structure](screenshots/01_workbook_structure.png)
+
+### Project Overview
+
+![Project Overview](screenshots/02_project_overview.png)
+
+### Cuisine Analysis
+
+![Cuisine Analysis](screenshots/03_cuisine_analysis.png)
+
+### Price Range Analysis
+
+![Price Range Analysis](screenshots/04_price_range_analysis.png)
+
+### Online Delivery & Rating Analysis
+
+![Online Delivery & Rating Analysis](screenshots/05_online_delivery_rating_analysis.png)
+
+### Geographic Analysis
+
+![Geographic Analysis](screenshots/06_geographic_analysis.png)
+
+### Customer Engagement Analysis
+
+![Customer Engagement Analysis](screenshots/07_customer_engagement_analysis.png)
 
 ## Project Files
 
